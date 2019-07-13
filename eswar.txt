@@ -3,3 +3,5 @@ hi this is eswar
 going to learn git and vscode with vscode
 
 welcome i will teach u githum using vscode
+
+monday i will teach u how to do it
